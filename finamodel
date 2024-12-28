@@ -9,8 +9,8 @@ one label per input line
 <h1>Example</h1>
 <h2>Input:</h2> 
 Helen Oy, -44.00
-As Oy Helsingin Helmenkalastaja, -451.50
+As Oy Helsingin Huippu, -123.50
 <h2>Output:</h2>
 Helen Oy, -44.00, utilities
-As Oy Helsingin Helmenkalastaja, -451.50, housing
+As Oy Helsingin Huippu, -123.50, housing
 " 
